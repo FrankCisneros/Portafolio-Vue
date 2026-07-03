@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Jorge Francisco Cisneros Zometa",
+    "subtitle": "Backend Developer | Frontend Developer",
+    "description": "I enjoy building software that solves real-world problems and improves people's everyday lives. My main focus is backend development while also creating modern and responsive web interfaces.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "scroll": "Projects below"
+  },
+  "projects": {
+    "showroom": "GitHub Showroom",
+    "title1": "FEATURED",
+    "title2": "PROJECTS",
+    "description": "Explore a selection of my latest GitHub repositories. Scroll down using your mouse wheel to navigate horizontally.",
+    "scroll": "Scroll down",
+    "viewProject": "View Project",
+    "privateRepo": "[ Private / Confidential Repository ]",
+    "viewAll": "View All Projects",
+    "ctaTitle": "VISIT MY PROFILE",
+    "ctaSubtitle": "Want to see more?",
+    "ctaDescription": "I have dozens of additional public repositories waiting for you, including scripts, backend tools, frontend projects, and artificial intelligence experiments.",
+
+    "gravebeat": {
+      "title": "GraveBeat Music",
+      "description": "A high-performance local music player built with a native hybrid backend, intelligent scanning powered by Lofty, MD5 metadata caching, and an advanced audio engine."
+    },
+
+    "flowerShop": {
+      "title": "Flower Shop API & Core",
+      "description": "Complete backend development for an e-commerce platform. I designed and implemented the business logic, inventory management, and transactional API endpoints."
+    },
+
+    "focusBear": {
+      "title": "Focus Bear (Core Developer)",
+      "description": "During my time as a Windows developer, I resolved synchronization issues, performed quality assurance (QA), merged pull requests, and completed technical repository audits."
+    },
+
+    "gameLibrary": {
+      "title": "Local Game Library API",
+      "description": "Desktop backend engine for storing and aggregating local video game data using web scraping and third-party APIs."
+    },
+
+    "dulceSabor": {
+      "title": "DulceSabor Online",
+      "description": "An e-commerce ordering platform featuring a reactive shopping cart, session management, and database persistence for cross-device synchronization."
+    }
+  }
+}

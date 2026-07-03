@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Jorge Francisco Cisneros Zometa",
+    "subtitle": "Desarrollador Backend | Desarrollador Frontend",
+    "description": "Disfruto creando software que resuelve problemas reales y mejora la vida diaria de las personas. Mi enfoque principal es el desarrollo backend, sin dejar de crear interfaces web modernas y responsivas.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "scroll": "Proyectos abajo"
+  },
+  "projects": {
+    "showroom": "GitHub Showroom",
+    "title1": "PROYECTOS",
+    "title2": "DESTACADOS",
+    "description": "Explora una selección de mis repositorios más recientes de GitHub. Desplázate hacia abajo con la rueda del mouse para explorar horizontalmente.",
+    "scroll": "Desplázate hacia abajo",
+    "viewProject": "Ver Proyecto",
+    "privateRepo": "[ Repositorio Privado / Confidencial ]",
+    "viewAll": "Ver Todos los Proyectos",
+    "ctaTitle": "ENTRA A MI PERFIL",
+    "ctaSubtitle": "¿Quieres ver más?",
+    "ctaDescription": "Tengo decenas de otros repositorios públicos esperándote, incluyendo scripts, herramientas backend, proyectos frontend y experimentos de inteligencia artificial.",
+
+    "gravebeat": {
+      "title": "GraveBeat Music",
+      "description": "Reproductor de música local de alto rendimiento. Construido con un backend híbrido nativo, escaneo inteligente con Lofty, caché MD5 para metadatos y un motor de audio avanzado."
+    },
+
+    "flowerShop": {
+      "title": "Floristería API & Core",
+      "description": "Desarrollo integral del backend para una plataforma de comercio electrónico. Diseñé y construí toda la lógica de negocio, gestión de inventario y endpoints de transacciones."
+    },
+
+    "focusBear": {
+      "title": "Focus Bear (Core Dev)",
+      "description": "Durante mi etapa como desarrollador para Windows resolví problemas de sincronización, realicé pruebas de calidad (QA), fusioné pull requests y completé auditorías técnicas del repositorio."
+    },
+
+    "gameLibrary": {
+      "title": "Local Game Library API",
+      "description": "Motor backend de escritorio para almacenar y agregar información de videojuegos locales mediante scraping y APIs de terceros."
+    },
+
+    "dulceSabor": {
+      "title": "DulceSabor Online",
+      "description": "Sistema de pedidos para comercio electrónico con carrito reactivo, gestión de sesiones y persistencia de datos para sincronización entre dispositivos."
+    }
+  }
+}
